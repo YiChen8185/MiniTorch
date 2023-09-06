@@ -6,7 +6,9 @@
 
 * Overview: https://minitorch.github.io/module4.html
 
-This module requires `fast_ops.py`, `cuda_ops.py`, `scalar.py`, `tensor_functions.py`, `tensor_data.py`, `tensor_ops.py`, `operators.py`, `module.py`, and `autodiff.py` from Module 3.
+MiniTorch is a diy teaching library for machine learning engineers who wish to learn about the internal concepts underlying deep learning systems. It is a pure Python re-implementation of the Torch API designed to be simple, easy-to-read, tested, and incremental. The final library can run Torch code.
+
+The main repo for the course is available on (GitHub)[https://github.com/minitorch/minitorch}. To complete the assignments you fill in TODO statements and pass the included unit test suite. There are also additional visualization tools to follow your progress.
 
 
 Additionally you will need to install and download the MNist library.
